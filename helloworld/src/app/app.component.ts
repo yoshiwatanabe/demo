@@ -10,5 +10,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = 'angular + github + azure web service';
+  title = 'angular + github + azure web service with CI';
 }
