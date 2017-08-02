@@ -1,3 +1,3 @@
-import { Entry } from './moduleB';
+import * as colorName from "color-name";
 
-console.log((new Entry()).name());
+console.log('RGB value of Aquamarine is ' + colorName.aquamarine);
