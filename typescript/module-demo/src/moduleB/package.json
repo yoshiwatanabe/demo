@@ -1,0 +1,7 @@
+{
+     "name": "moduleb",
+     "author": "author name",
+     "version": "1.0.0",
+     "main": "mainModule.js",
+     "typings": "mainModule.ts"
+    }
