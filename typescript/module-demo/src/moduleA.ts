@@ -1,5 +1,3 @@
-export class Entry {
-    public name(): string {
-        return 'my entry';
-    }
-}
+import { Entry } from './moduleB';
+
+console.log((new Entry()).name());
